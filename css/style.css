@@ -102,7 +102,7 @@ img, video, audtio {
 
 .col-3 {
   /* block element, so we dont need to specify 100% width as its automatic */
-  backgrou: #ccc;
+  background: #ccc;
 }
 
 [class*="col-"] { /* means "anything that has a class that has value 'col-' anywhere inside of it"*/
